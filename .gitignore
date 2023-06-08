@@ -1,0 +1,8 @@
+Debug/
+Release/
+*.dat
+*.eps
+*.png
+.cproject
+.project
+.settings/
